@@ -5,13 +5,13 @@ $(function() {
         width   : "100%",
         height  : 550,
         syncScrolling : "single",
-        path    : "https://cdn.jsdelivr.net/gh/newzhn/blog-resource/lib/editormd/lib/"
+        path    : "../../../lib/editormd/lib/"
     });
     contentEditor2 = editormd("blog-md-content2", {
         width   : "100%",
         height  : 550,
         syncScrolling : "single",
-        path    : "https://cdn.jsdelivr.net/gh/newzhn/blog-resource/lib/editormd/lib/"
+        path    : "../../../lib/editormd/lib/"
     });
 });
 
