@@ -332,7 +332,7 @@ body {
 }
 
 /*手机端访问时，改变导航栏样式进行缩放*/
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1000px){
     .m-mobile-hide {
         display: none !important;
     }
